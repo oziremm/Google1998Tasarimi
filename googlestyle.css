@@ -1,0 +1,80 @@
+#srcImg {
+    width: 450px;
+    height: 150px;
+}
+
+.searching {
+
+    width: 90%;
+    height: 10%;
+    background-color: #EEEEEE;
+}
+
+#inputstyle {
+    width: 400px;
+    height: 25px;
+}
+
+#input2 {
+    width: 120px;
+    height: 30px;
+}
+
+.container {
+
+    border: 1px none;
+
+}
+
+.green {
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    text-align: center;
+
+}
+
+.green1 {
+    width: 38%;
+    font-size: 16px;
+    background-color: rgb(126, 229, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green2 {
+    width: 20%;
+    margin: 0 2px;
+    font-size: 13px;
+    background-color: rgb(112, 204, 194);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.green3 {
+
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    width: 42%;
+    background-color: rgb(98, 179, 170);
+    height: 100px;
+    align-items: center;
+
+}
+
+#subscribestyle {
+    width: 100px;
+    height: 27px;
+
+}
+
+#emailadresstyle {
+
+    width: 220px;
+    height: 25px;
+}
